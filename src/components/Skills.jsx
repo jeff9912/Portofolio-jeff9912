@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion'
 import {
-  SiJavascript, SiPython, SiPhp,
+  SiJavascript, SiPython, SiPhp, SiDart,
   SiFlutter, SiTailwindcss, SiReact, SiNodedotjs, SiLaravel,
   SiWireshark
 } from 'react-icons/si'
@@ -14,6 +14,7 @@ const Skills = () => {
         { name: 'JavaScript', icon: SiJavascript, color: '#F7DF1E' },
         { name: 'Python', icon: SiPython, color: '#3776AB' },
         { name: 'PHP', icon: SiPhp, color: '#777BB4' },
+        { name: 'Dart', icon: SiDart, color: '#0175C2' },
         { name: 'C', icon: FaTerminal, color: '#A8B9CC' },
         { name: 'C#', icon: FaCode, color: '#239120' },
         { name: 'SQL', icon: FaDatabase, color: '#4479A1' },
