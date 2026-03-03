@@ -26,10 +26,10 @@ const Projects = () => {
       stack: ['Research', 'Data Analysis', 'International Collaboration']
     },
     {
-      title: 'Cybersecurity Labs',
+      title: 'Cybersecurity Lab & Virtualized Infrastructure',
       description:
-        'Ongoing self-directed practice across penetration testing, network analysis, and vulnerability assessment. Working through TryHackMe rooms and building custom lab environments.',
-      stack: ['Metasploit', 'Wireshark', 'Nmap', 'Burp Suite', 'Hashcat']
+        'Built and maintained a self-hosted lab with isolated VMs and custom network segments to simulate real-world attacks and defense scenarios. Hands-on Linux administration, traffic inspection, penetration testing, and password/hash analysis, including experiments with a Raspberry Pi for hardening and monitoring.',
+      stack: ['Virtualization', 'Linux', 'Network Segmentation', 'Wireshark', 'Burp Suite', 'Hashcat']
     }
   ]
 

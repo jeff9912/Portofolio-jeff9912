@@ -29,18 +29,6 @@ const ExperienceEducation = () => {
                     <li>Helping maintain lab environments and course materials</li>
                   </ul>
                 </div>
-
-                <div className="relative pl-6 border-l-2 border-indigo-500/30">
-                  <div className="absolute -left-[7px] top-1 w-3 h-3 rounded-full bg-indigo-500/60" />
-                  <h4 className="text-lg font-semibold text-white">Cybersecurity Practice</h4>
-                  <p className="text-sm text-indigo-400 mb-2">Self-directed / TryHackMe</p>
-                  <ul className="space-y-1.5 text-gray-400 text-sm">
-                    <li>Password cracking with Hashcat &amp; John the Ripper (MD5, NTLM, SHA-512)</li>
-                    <li>Capturing and analyzing network traffic with Wireshark</li>
-                    <li>Exploiting systems and injecting payloads with Metasploit</li>
-                    <li>Developing applications following OWASP security guidelines</li>
-                  </ul>
-                </div>
               </div>
             </div>
 

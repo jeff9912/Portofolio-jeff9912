@@ -26,6 +26,7 @@ const Skills = () => {
       skills: [
         { name: 'React', icon: SiReact, color: '#61DAFB' },
         { name: 'Node.js', icon: SiNodedotjs, color: '#339933' },
+        { name: 'Express', icon: FaTerminal, color: '#10B981' },
         { name: 'Laravel', icon: SiLaravel, color: '#FF2D20' },
         { name: 'Flutter', icon: SiFlutter, color: '#02569B' },
         { name: 'Tailwind', icon: SiTailwindcss, color: '#06B6D4' },
@@ -38,6 +39,10 @@ const Skills = () => {
         { name: 'Burp Suite', icon: FaShieldAlt, color: '#FF6633' },
         { name: 'Metasploit', icon: FaShieldAlt, color: '#2596CD' },
         { name: 'Nmap', icon: FaNetworkWired, color: '#9B59B6' },
+        { name: 'Hashcat', icon: FaTerminal, color: '#F97316' },
+        { name: 'John The Ripper', icon: FaTerminal, color: '#84CC16' },
+        { name: 'sqlmap', icon: FaTerminal, color: '#38BDF8' },
+        { name: 'CyberChef', icon: FaTerminal, color: '#F43F5E' },
         { name: 'Hydra', icon: FaTerminal, color: '#27AE60' },
         { name: 'Gobuster', icon: FaTerminal, color: '#E74C3C' },
       ]

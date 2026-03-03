@@ -6,18 +6,18 @@ const Hero = () => {
     <section id="home" className="min-h-screen flex items-center bg-gray-900 pt-16">
       <div className="max-w-6xl mx-auto px-6 py-20 w-full">
         <div className="flex flex-col md:flex-row items-center gap-12">
-          <motion.div
+          {/* <motion.div
             initial={{ opacity: 0, scale: 0.95 }}
             animate={{ opacity: 1, scale: 1 }}
             transition={{ duration: 0.6 }}
             className="flex-shrink-0"
           >
             <img
-              src="/jeff.jpg"
+              src="/jeff2.jpeg"
               alt="Jeffrey Li"
               className="w-44 h-44 md:w-52 md:h-52 rounded-full object-cover ring-4 ring-indigo-500/20"
             />
-          </motion.div>
+          </motion.div> */}
 
           <motion.div
             initial={{ opacity: 0, y: 20 }}
